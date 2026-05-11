@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Arroziqi
 I am a software engineer focused on developing web and mobile applications. I have been working as a project-based software developer for over a year. Additionally, I have been a programming and Linux operating system mentor for more than two years.
 
-- 🔭 I’m currently working on PT Telekomunikasi Indonesia Tbk
+- 🔭 Ex Frontend Developer at Bluebird Group
 - 🌱 I’m currently learning NestJs, MongoDB, and Flutter
 
 <!--
